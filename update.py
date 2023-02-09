@@ -32,7 +32,7 @@ except:
 
 load_dotenv('config.env', override=True)
 
-UPSTREAM_REPO = "https://github.com/luoisz/6-2-23MltbRcloneRender"
+UPSTREAM_REPO = "https://github.com/rinrinx/6-2-23MltbRcloneRender"
 UPSTREAM_BRANCH = 'master'
 
 if UPSTREAM_REPO is not None:
